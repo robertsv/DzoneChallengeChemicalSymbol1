@@ -7,4 +7,4 @@ Project is maven based  and can be imported in Eclipse (or any other IDE) as any
 **Content:**
 * [`ChemistrySymbolValidator.java` validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolValidator.java)
 
-* [`TestChemistrySymbolValidator.java` test class validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolValidator.java)
+* [`TestChemistrySymbolValidator.java` test class for validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolValidator.java)
