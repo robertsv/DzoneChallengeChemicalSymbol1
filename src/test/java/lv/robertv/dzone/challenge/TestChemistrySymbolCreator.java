@@ -21,7 +21,7 @@ public class TestChemistrySymbolCreator {
 	
 	@Test
 	public void genFirstSymbol1() {
-		Assert.assertEquals("Ee", creator.genFirstSymbol("Gozerium"));
+		Assert.assertEquals("Ei", creator.genFirstSymbol("Gozerium"));
 	}
 	
 	@Test
