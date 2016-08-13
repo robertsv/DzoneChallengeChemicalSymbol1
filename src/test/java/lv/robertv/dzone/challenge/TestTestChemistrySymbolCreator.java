@@ -21,7 +21,7 @@ public class TestTestChemistrySymbolCreator {
 
 	@Test
 	public void getDistinctSymbolCnt1() {
-		Assert.assertEquals(11, counter.getDistinctSymbolCnt("Zuulon "));
+		Assert.assertEquals(11, counter.getDistinctSymbolCnt("Zuulon"));
 	}
 
 }
