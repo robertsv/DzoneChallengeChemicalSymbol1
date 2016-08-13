@@ -9,7 +9,7 @@
 
 ### Challenge
 
-* [`ChemistrySymbolValidator.java` validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolValidator.java)
+* [`ChemistrySymbolValidator.java` symbol validator](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolValidator.java)
 
 * [`TestChemistrySymbolValidator.java`](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertsv/dzone/challenge/TestChemistrySymbolValidator.java)
 
@@ -21,7 +21,7 @@
 
 ### Second bonus challenge
 
-* [`ChemistrySymbolCounter.java` calculates distincs symbols](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolCounter.java)
+* [`ChemistrySymbolCounter.java` nr. of distinct symbols calculator](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolCounter.java)
 
 * [`TestChemistrySymbolCounter.java`](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertsv/dzone/challenge/TestChemistrySymbolCounter.java)
 
