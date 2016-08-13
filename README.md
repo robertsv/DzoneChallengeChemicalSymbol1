@@ -1,6 +1,7 @@
 # Dzone Java code challenge - chemical symbol naming
 
 This repo contains a solution for https://dzone.com/articles/java-code-challenge-chemical-symbol-naming-part-on 
+Poject is maven based and can be imported in Eclipse (or any other IDE)
 
 ## Content
 
@@ -24,6 +25,5 @@ This repo contains a solution for https://dzone.com/articles/java-code-challenge
 
 * Java 8
 * Maven  
-Note: Poject is maven based and can be imported in Eclipse (or any other IDE)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-54543878-2/robertsv/DzoneChallengeChemicalSymbol1)]()
