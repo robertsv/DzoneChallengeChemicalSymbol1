@@ -29,8 +29,7 @@
 
 * Java 8
 * Maven  
-
+ 
 [![Analytics](https://ga-beacon.appspot.com/UA-54543878-2/robertsv/DzoneChallengeChemicalSymbol1)]()
-
+ 
 [![Build Status](https://travis-ci.org/robertsv/DzoneChallengeChemicalSymbol1.svg?branch=master)](https://travis-ci.org/robertsv/DzoneChallengeChemicalSymbol1)
-
