@@ -18,17 +18,18 @@ public class ChemistrySymbolCounter {
 		int cnt = 0;
 		int endIndex = elementName.length() - 1;
 		
-		for (int index = 0; index <= endIndex; index++) {
-			
-			String currnetChar = Character.toString(elementName.charAt(index));
-			String charsBehindIt = elementName.substring(index + 1);
-			
-			int till = charsBehindIt.indexOf(currnetChar);
-			if (till > -1) {
-				charsBehindIt = charsBehindIt.substring(0, till + 1);
+		// if there would be no requirement for distinct symbols then "nr. of elements" = n - 1 + n - 2 + ... + 0
+		// but we need to filter out duplicates
+		for (int currentIndex = 0; currentIndex <= endIndex; currentIndex++) {
+			String currentChar = Character.toString(elementName.charAt(currentIndex));
+			// get all remaining chars till end or till char which equals current character
+			String remainingChars = elementName.substring(currentIndex + 1);
+			int index = remainingChars.indexOf(currentChar);
+			if (index > -1) {
+				remainingChars = remainingChars.substring(0, index + 1);
 			}
-			
-			cnt += getDistinctCharCnt(charsBehindIt);
+			// gte nr. of possible combinations for current character
+			cnt += getDistinctCharCnt(remainingChars);
 		}
 		
 		return cnt;
@@ -38,11 +39,11 @@ public class ChemistrySymbolCounter {
 		String str = "";
 		List<String> splittedName = Arrays.asList(elementName.split(""));
 		int index = 0;
-		for (String cahr : splittedName) {
+		for (String character : splittedName) {
 			index++;
 			List<String> prev = splittedName.subList(0, index - 1);
-			if (index !=0 && !prev.contains(cahr)) {
-				str += cahr;
+			if (index !=0 && !prev.contains(character)) {
+				str += character;
 			}
 		}
 		return str.length();
