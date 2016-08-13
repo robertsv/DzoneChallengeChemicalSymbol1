@@ -21,9 +21,9 @@
 
 ### Second bonus challenge
 
-* [`ChemistrySymbolCounter.java calculates distincs symbols`](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolCounter.java)
+* [`ChemistrySymbolCounter.java' calculates distincs symbols](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolCounter.java)
 
-* [`TestChemistrySymbolCounter.java test`](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolCounter.java)
+* [`TestChemistrySymbolCounter.java' test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolCounter.java)
 
 ## Requirements
 
