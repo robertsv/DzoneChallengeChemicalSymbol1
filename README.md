@@ -9,21 +9,21 @@
 
 ### Challenge
 
-* [`ChemistrySymbolValidator.java` validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolValidator.java)
+* [`ChemistrySymbolValidator.java` validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolValidator.java)
 
-* [`TestChemistrySymbolValidator.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolValidator.java)
+* [`TestChemistrySymbolValidator.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertsv/dzone/challenge/TestChemistrySymbolValidator.java)
 
 ### First bonus challenge
 
-* [`ChemistrySymbolCreator.java` symbol generator](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolCreator.java)
+* [`ChemistrySymbolCreator.java` symbol generator](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolCreator.java)
 
-* [`TestChemistrySymbolCreator.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolCreator.java)
+* [`TestChemistrySymbolCreator.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertsv/dzone/challenge/TestChemistrySymbolCreator.java)
 
 ### Second bonus challenge
 
-* [`ChemistrySymbolCounter.java` calculates distincs symbols](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolCounter.java)
+* [`ChemistrySymbolCounter.java` calculates distincs symbols](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertsv/dzone/challenge/ChemistrySymbolCounter.java)
 
-* [`TestChemistrySymbolCounter.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolCounter.java)
+* [`TestChemistrySymbolCounter.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertsv/dzone/challenge/TestChemistrySymbolCounter.java)
 
 ## Requirements
 
