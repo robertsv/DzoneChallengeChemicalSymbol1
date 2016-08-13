@@ -7,6 +7,8 @@
 
 ## Content
 
+### Challenge
+
 * [`ChemistrySymbolValidator.java` validator implementation](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/main/java/lv/robertv/dzone/challenge/ChemistrySymbolValidator.java)
 
 * [`TestChemistrySymbolValidator.java` test](https://github.com/robertsv/DzoneChallengeChemicalSymbol1/blob/master/src/test/java/lv/robertv/dzone/challenge/TestChemistrySymbolValidator.java)
