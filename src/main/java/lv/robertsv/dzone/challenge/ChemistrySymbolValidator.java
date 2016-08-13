@@ -1,4 +1,4 @@
-package lv.robertv.dzone.challenge;
+package lv.robertsv.dzone.challenge;
 
 /**
  * This is a chemistry validator.

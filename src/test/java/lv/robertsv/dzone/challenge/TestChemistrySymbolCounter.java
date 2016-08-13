@@ -1,8 +1,10 @@
-package lv.robertv.dzone.challenge;
+package lv.robertsv.dzone.challenge;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import lv.robertsv.dzone.challenge.ChemistrySymbolCounter;
 
 /**
  * This is a test class for a chemistry symbol counter. Dzone challenge:

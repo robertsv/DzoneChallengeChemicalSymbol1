@@ -1,4 +1,4 @@
-package lv.robertv.dzone.challenge;
+package lv.robertsv.dzone.challenge;
 
 import java.util.Arrays;
 import java.util.List;
