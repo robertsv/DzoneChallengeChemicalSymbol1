@@ -28,7 +28,7 @@ public class ChemistrySymbolCounter {
 			if (index > -1) {
 				remainingChars = remainingChars.substring(0, index + 1);
 			}
-			// gte nr. of possible combinations for current character
+			// get nr. of possible combinations for current character
 			cnt += getDistinctCharCnt(remainingChars);
 		}
 		
